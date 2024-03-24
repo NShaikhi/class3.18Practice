@@ -3,3 +3,6 @@ p{
     font-style: italic;
     text-emphasis-color: rgb(31, 31, 73);
 }
+h1{
+    background-color: rgb(139, 139, 236); font-style: italic;
+}
